@@ -1,1 +1,1 @@
-# -sde-camp-bootcamp
+# sde-camp-bootcamp
